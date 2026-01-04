@@ -84,7 +84,7 @@ These pathways are known to play roles in **tumor metabolism, survival, and prog
 
 ```
 ├── report/
-│   └── Differential_Gene_Expression_and_Functional_Enrichment_Breast_Cancer_RNASeq.pdf
+│   └── Differential Gene Expression and Functional Enrichment Analysis of Breast Cancer Using RNA-Seq Data .pdf
 │
 ├── figures/
 │   ├── KEGG_2021_Human_bar_graph.png
